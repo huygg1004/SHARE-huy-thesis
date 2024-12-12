@@ -1,0 +1,119 @@
+Seafood:
+shrimp, scallops, saltwater-fish, squid, cod, sole-and-flounder, crab, salmon, oysters, lobster, shellfish, clams, octopus
+tuna, whitefish, fish, mahi-mahi, bass, orange-roughy, pickeral, freshwater-fish, halibut, trout, crawfish, catfish, seafood
+tilapia, mussels
+
+Poultry & Game:
+goose, deer, moose, poultry, turkey-burgers, chicken-breasts, duck, whole-chicken, chicken-livers, wild-game
+whole-duck, chicken-thighs-legs, turkey, turkey-breasts, veal, elk, rabbit, duck-breasts, quail, chicken, pheasant, eggs-dairy
+
+Beef:
+beef-liver, beef-kidney, ground-beef, beef-ribs, steak, roast-beef, beef-sausage, steaks, beef, bear
+
+Pork:
+pork-sausage, pork-loins, pork-ribs, bacon, pork-loin, pork-chops, pork, ham
+
+Dietary Restrictions:
+low-saturated-fat, low-calorie, healthy, healthy-2, gluten-free, low-in-something, nut-free, low-fat, low-sodium, , egg-free, dairy-free
+kosher, low-cholesterol, diabetic, low-carb, dietary, lactose, free-of-something, high-in-something-diabetic-friendly
+very-low-carbs, low-protein, high-in-something, high-protein, no-shell-fish, high-calcium
+
+World Cuisines:
+greek, chinese, indian, portuguese, mongolian, georgian, russian, angolan, malaysian, icelandic, brazilian, cambodian
+italian, danish, spanish, czech, polish, thai, austrian, asian, korean, french
+
+Regional Cuisines:
+southern-united-states, pakistani, beijing, ecuadorean, creole, polynesian, californian, colombian, costa-rican, chilean, hunan, pacific-northwest
+irish, canadian, oaxacan, saudi-arabian, cantonese, indonesian, british-columbian, belgian, south-west-pacific, ontario, guatemalan, jewish-sephardi
+palestinian, tex-mex, laotian, scottish, northeastern-united-states, new-zealand, sudanese, southwestern-united-states, dutch, norwegian, jewish-ashkenazi, iranian-persian
+welsh, filipino, congolese, swedish, namibian, puerto-rican, nepalese, venezuelan, libyan, moroccan, japanese, peruvian
+central-american, vietnamese, honduran, south-african, amish-mennonite, north-american, pennsylvania-dutch, midwestern
+
+Recipe Difficulty:
+easy, beginner-cook, 3-steps-or-less
+
+Kids:
+kid-friendly, snacks-kid-friendly, toddler-friendly, infant-baby-friendly
+
+Meal Type:
+breakfast, lunch, brunch, dinner-party, snacks
+
+Time:
+15-minutes-or-less, time-to-make, 1-day-or-more, 30-minutes-or-less, 60-minutes-or-less, 4-hours-or-less
+
+Price:
+inexpensive
+
+Vegetables:
+peppers, onions, beans-side-dishes, lettuces, tomatoes, avocado, pumpkin, asparagus, vegetables, spinach, collard-greens, greens
+chard, green-yellow-beans, yams-sweet-potatoes, potatoes, cabbage, eggplant, carrots, bok-choys, mushrooms, corn, cauliflower, broccoli
+artichoke, squash, zucchini
+
+Soups and Stews:
+soups-stews, chowders, bean-soup, chicken-stews, clear-soups, bisques-cream-soups, mushroom-soup, beef-barley-soup, ham-and-bean-soup, black-bean-soup
+
+Breads and Baked Goods:
+quick-breads, pancakes-and-waffles, muffins, bread-pudding, scones, coffee-cakes, biscotti, rolls-biscuits, pumpkin-bread, breads, granola-and-porridge
+
+Desserts and Sweets:
+jellies, puddings-and-mousses, cobblers-and-crisps, desserts-fruit, brownies, cupcakes, fudge, cheesecake, desserts-easy, cakes, pies, tarts, desserts, cookies-and-brownies, hand-formed-cookies, bar-cookies, drop-cookies, rolled-cookies, chocolate-chip-cookies, sugar-cookies
+
+Main Dishes and Savories:
+breakfast-casseroles, wings, savory-pies, veggie-burgers, baked-beans, spaghetti, main-dish-chicken, lasagne, spaghetti-sauce, main-dish-seafood
+pasta-salad, quiche, main-dish-pork, main-dish-beef, meatballs, meatloaf, main-dish-pasta, macaroni-and-cheese, pot-pie, manicotti, ravioli-tortellini
+shrimp-main-dish, roast-beef-main-dish, lamb-sheep-main-dish
+
+Recipe Attributes:
+served-cold, weeknight, for-1-or-2, oamc-freezer-make-ahead, one-dish-meal, brown-bag, to-go, weeknight, seasonal, for-large-groups
+
+Cooking Technique:
+stir-fry, no-cook, smoker, broil, stove-top, brewing, deep-fry, steam
+
+Appliances/Equipment:
+bread-machine, small-appliance, unprocessed-freezer, oven, microwave, pressure-canning, mixer, dehydrator, pressure-cooker, equipment, food-processor-blender, refrigerator
+crock-pot-slow-cooker, chicken-crock-pot, freezer, reynolds-wrap, beef-crock-pot, pork-crock-pot
+
+Special Occasions:
+independence-day, kwanzaa, cinco-de-mayo, mardi-gras-carnival, april-fools-day, occasion, superbowl, chinese-new-year, for-large-groups-holiday-event, fathers-day, served-hot-new-years, holiday-event
+mothers-day, ramadan, labor-day, gifts, birthday, thanksgiving, rosh-hashana, irish-st-patricks-day, memorial-day, wedding, halloween-cocktails, christmas
+rosh-hashanah, passover, valentines-day, romantic, new-years, halloween, halloween-cakes, st-patricks-day, easter, hanukkah, halloween-cupcakes
+
+Fruits:
+tropical-fruit, berries, bananas, plums, cherries, peaches, citrus, oranges, lemon, blueberries, mango, 
+apples, grapes, strawberries, melons, pears, kiwifruit, papaya, pitted-fruit, pineapple, fruit, raspberries
+
+Herbs and Spices:
+a1-sauce, herb-and-spice-mixes, lime, condiments-etc, garnishes, salad-dressings, hidden-valley-ranch, spicy, taste-mood, savory-sauces
+
+Occasions/Events:
+fall, potluck, cocktails, summer, picnic
+
+Other:
+novelty, beverages, copycat, candy, flat-shapes, main-ingredient
+
+Preparation/Techniques:
+crusts-pastry-dough-2, presentation, , preparation, canning, from-scratch, technique, water-bath, marinades-and-rubs
+
+Grains:
+short-grain-rice, pasta-rice-and-grains-elbow-macaroni, medium-grain-rice, long-grain-rice, brown-rice, rice, high-fiber, pasta-rice-and-grains, white-rice
+
+Main Course:
+ragu-recipe-contest, roast-beef-comfort-food, main-dish
+
+Uncategorized:
+simply-potatoes2, , non-alcoholic, heirloom-historical-recipes, swiss, number-of-servings, leftovers, college
+
+Dairy:
+cheese
+
+Nuts and Seeds:
+peanut-butter, nuts
+
+Legumes:
+lentils, chick-peas-garbanzos, black-beans, beans
+
+Miscellaneous:
+celebrity, punch
+
+Baking Ingredient:
+baking, sourdough
